@@ -1,0 +1,16 @@
+{
+   "compilerOptions": {
+      "allowJs": true,
+      "experimentalDecorators": true,
+      "target": "es6",
+      "module": "commonjs",
+      "outDir": "./dist"
+   },
+   "include": [
+      "./SModule.ts",
+      "./Ons.ts",
+      "./main.ts",
+      "./CommandRun.ts",
+      "./cmdManager.ts",
+   ]
+}

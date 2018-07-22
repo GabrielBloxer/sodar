@@ -1,0 +1,17 @@
+{
+  "name": "sodar",
+  "version": "0.1.6",
+  "description": "A library made for create Discord Bots, with TypeScript, more easily.",
+  "main": "./dist/main.js",
+  "scripts": {
+    "test": "ts-node demo/main.ts"
+  },
+  "author": "leirbag1725",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^10.5.2",
+    "discord.js": "^11.3.2",
+    "ts-node": "^7.0.0",
+    "typescript": "^2.9.2"
+  }
+}
